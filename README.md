@@ -60,6 +60,8 @@ The game alternates turns between white and black, and the server manages turn o
 
 Chat messages are visible to both players.
 
+
+
 ### Another chess project made by my friend:
 https://drive.proton.me/urls/DHVY325GCM#vth3xt5eXEcp
 
