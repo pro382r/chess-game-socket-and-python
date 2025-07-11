@@ -52,3 +52,5 @@ class ChessServer:
 if __name__ == "__main__":
     server = ChessServer()
     server.start()
+
+#rz
