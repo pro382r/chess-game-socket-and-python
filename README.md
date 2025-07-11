@@ -17,7 +17,8 @@ This project is a multiplayer chess game with a real-time chat feature. It consi
 - python-chess (for chess logic)
 
 ### Install Dependencies
-To install the necessary dependencies, use the following command:
+At first install python for python environment.
+To install the necessary dependencies (pygame library), use the following command:
 
 ```bash
 pip install pygame python-chess
